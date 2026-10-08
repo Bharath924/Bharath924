@@ -61,7 +61,7 @@ Machine learning classification project involving data preprocessing, explorator
 
 [View Project](https://github.com/Bharath924/Obesity-Level-Classification)
 
-## 💰 Finance Management System
+### 💰 Finance Management System
 
 Full-stack finance and loan management application built with **C#, Blazor, .NET 10, Dapper and SQL Server**, supporting accounts, transactions, transfers and loan workflows. Implemented authentication, role-based access control, database transactions, and email and in-app notifications.
 
